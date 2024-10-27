@@ -1,3 +1,9 @@
+---
+title: Chemistry
+tags:
+  - Science
+---
+
 ![[PeriodicTableCharge-WBG-56a12db23df78cf772682c37.png]]
 
 ---
