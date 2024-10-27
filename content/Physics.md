@@ -1,4 +1,5 @@
 <b><u>What is a force?</u></b>
+
 A force is a pull, push, or twist of an object
 Unit = Newtons (N)
 
