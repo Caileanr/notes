@@ -107,4 +107,41 @@ Like force, you can also calculate velocity and time if you know the distance an
 > $$100m \div 10ms^{-1} = 10s$$ <br>
 > An object that was displaced 100 metres with an average velocity of 10m/s travelled for 10s
 
-<b><u>Visualizing forces with graphs</u></b>
+<hr>
+<h2><u>Electricity and Magnetism</u></h2>
+As we know, everything is made out of atoms. Atoms are made up of  electrons, protons and neutrons. So, why is this important? Neutrons aren't that important in this situation however since we're all made up of electrons and protons that means everything has a charge. 
+
+Most objects are not electrically charged, this is because they have the same amount of electrons, which have a negative charge, and protons, which have a positive charge. This makes them, as stated earlier, not electrically charged and as such electrically neutral. For example this ball would be electrically neutral as they have the same amount of electrons and protons.
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfb6DbW6UE9Sr6JEzw4urw4P6dVRvkiXvB4LaiMgqMltTBnCpE2zgOeAvcS1u9pnJMAyU_MdNWHWCVFxMeZQU8yJtp8RaHV1IMCWModFcm3XkC5sSPsavilIEgy82mQ6PCY8DnTxBaWl8fFbQZt2weHT5EAqUep=s2048?key=0WvajiLUfUuTlLL2IogiOw)
+
+The thing about charges is that they can repel and attract. This is because they want to be electrically neutral. As such if they are positively or negatively charged, they will repel things with the same charge as them. However if something had a different charge to them, then they would attract the object. This table below is an easy way to remember it:
+
+| Charges | +       | -       |
+| ------- | ------- | ------- |
+| +       | Repel   | Attract |
+| -       | Attract | Repel   |
+
+> [!NOTE] As the saying goes, Opposites attract!
+
+<b><u>Conductors and Insulators</u></b> <br>
+One final thing we need to learn about are conductors and insulators! 
+
+<b><u>Conductors</u></b> <br>
+Conductors are simply substances that allow electrons (charge) to flow through easily! You can think of conductors as basically a greenlight, allowing all the electrons to go through.
+
+Common examples of conductors are:
+- Metals (Such as copper, gold, and brass)
+- Non-distilled Water (Normal drinking water)
+<br>
+<b><u>Insulators</u></b> <br>
+Insulators are, as the name suggests, substances that don't allow electrons (charge) to flow through easily. You can think of electricity as heat. Insulators, like in houses, trap the heat and make it hard for it to escape through the insulation. Insulators do the same thing with electricity. Although they have the same name, the insulators in houses and in electricity are not the same!
+
+Common examples of insulators are:
+- Plastics
+- Glass
+- Wool
+- Distilled Water (Pure water)
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfpdf95EK2tUTei0jPhxc-hUz9_gVxh5mBI6BDKqUip-iCuEkB8SGUQqDE2QBTMdoPX7yAMzzaD_qyQV73i6KRfC0HrjxhJkyNQYttXPVSa7YIu4JWzo2p4oSvwHlpNVfmlKBH5JFvhnQ4IdDYpnX05ZX5ANLc3=s2048?key=0WvajiLUfUuTlLL2IogiOw)
+
