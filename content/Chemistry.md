@@ -36,14 +36,20 @@
 
 <h5><u>What are Atoms made up of?</u></h5>
 Atoms are made up of three different sub particles - Protons, Electrons, and Neutrons. The Protons and Neutrons make up the nucleus while the electrons surround the nucleus. 
+<br><br>
 
 |          | Proton       | Neutrons | Electrons   |
 | -------- | ------------ | -------- | ----------- |
 | Charge   | Positive (+) | Neutral  | Negative(-) |
 | Weight   | 1            | 1        | ~1/2000     |
 | Position | Nucleus      | Nucleus  | Shells      |
+<br>
+
 There are a few of ways to find the number of protons and electrons in an atom. To find the number of electrons or protons, look at the atomic number of the element. This will always be equal to the number of protons, and therefore electrons. You can also find the number of protons by subtracting the number of neutrons from the atomic mass
+
 $$Atomic Mass-NumberOfNeutrons=NumberOfProtons$$
+
+
 
 > [!NOTE] The Relationship between Protons and Electrons
 > In an element, there are always an equal number of Protons and Electrons. This is because particles with a positive charge attract particles with a negative charge due to magnetism. This then gives the atom a neutral charge. Although, this is different in an ion as an atom loses or gains electrons to have a full valence shell!
@@ -59,6 +65,7 @@ $$
 
 <h4><u>Electrons and Ions</u></h4>
 Electrons surround the nucleus in shells. Electron Shells are a way for scientists to visualise zones around the nucleus of an atom which each contain a specific number of electrons. The number of electrons in each Electron Shell goes as follows: 
+
 - In the First shell there are a maximum of two electrons, 
 - In the Second shell there are a maximum of 8 electrons, 
 - In the Third shell there are a maximum of 8 electrons, 
@@ -70,6 +77,7 @@ Electrons surround the nucleus in shells. Electron Shells are a way for scientis
 | 2   | 8   |
 | 3   | 8   |
 | 4   | 18  |
+
 As stated earlier, Ions are atoms or group of atoms which have lost or gained electrons. This is so they gain a full valence shell which makes them stable. 
 
 Writing Ions is easy, simply write the chemical symbol of the element the ion is, then add the number of electrons gained or lost in the top right of the element's letter/s followed by the charge of the ion. If an ion only loses or gains 1 ion, then you simply write the charge in the top right. Remember, electrons are negative so gaining them gives the ion a negative charge while losing them gives the ion a positive charge!
@@ -181,7 +189,8 @@ $$ Acid + Base → Salt + Water$$
 
 > [!NOTE] Neutralisation Reaction Example
 > $$2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O$$
-> 2 Hydrochloric Acid + Magnesium Hydroxide → Magnesium Chloride + 2 Water
+> 
+> <br>2 Hydrochloric Acid + Magnesium Hydroxide → Magnesium Chloride + 2 Water
 
 
 <h5><u> Neutralisation (Carbonate) Reaction</u></h5>
@@ -191,7 +200,8 @@ $$ Acid + Base → Salt + Water + CarbonDioxide$$
 
 > [!NOTE] Neutralisation (Carbonate) Reaction Example
 > $$Na₂CO₃+2HCl → 2NaCl + H₂O + CO₂$$
-> Sodium Carbonate + 2 Hydrochloric Acid → 2 Sodium Chloride + 1 Water + 1 Carbon Dioxide 
+> 
+> <br>Sodium Carbonate + 2 Hydrochloric Acid → 2 Sodium Chloride + 1 Water + 1 Carbon Dioxide 
 
 <h5><u> Metal + Acid Reaction</u></h5>
 A Metal + Acid reaction is when a metal is dissolved in an acid, creating a salt and hydrogen gas. 
@@ -200,7 +210,8 @@ $$Metal + Acid → Salt + HydrogenGas$$
 
 > [!NOTE] Metal + Acid Reaction Example
 > $$Mg + 2HCl = MgCl₂ + H₂$$
-> Magnesium + Hydrochloric Acid → Magnesium Chloride + Hydrogen Gas
+> 
+> <br>Magnesium + Hydrochloric Acid → Magnesium Chloride + Hydrogen Gas
 
 <h5><u> Metal Oxide Reaction</u></h5>
 The Metal Oxide reaction is when you burn metal in oxygen. The metal and oxygen react together to form a metal oxide. 
@@ -209,7 +220,8 @@ $$Metal + Oxygen → Metal Oxide$$
 
 > [!NOTE] Metal Oxide Reaction Example
 > $$2Mg + O₂ → 2MgO$$
-> Magnesium + Oxygen Gas → Magnesium Oxide
+> 
+> <br>Magnesium + Oxygen Gas → Magnesium Oxide
 
 ---
 <h5><u> Balancing Equations</u></h5>
