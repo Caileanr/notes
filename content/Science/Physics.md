@@ -113,7 +113,8 @@ As we know, everything is made out of atoms. Atoms are made up of  electrons, pr
 
 Most objects are not electrically charged, this is because they have the same amount of electrons, which have a negative charge, and protons, which have a positive charge. This makes them, as stated earlier, not electrically charged and as such electrically neutral. For example this ball would be electrically neutral as they have the same amount of electrons and protons.
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfb6DbW6UE9Sr6JEzw4urw4P6dVRvkiXvB4LaiMgqMltTBnCpE2zgOeAvcS1u9pnJMAyU_MdNWHWCVFxMeZQU8yJtp8RaHV1IMCWModFcm3XkC5sSPsavilIEgy82mQ6PCY8DnTxBaWl8fFbQZt2weHT5EAqUep=s2048?key=0WvajiLUfUuTlLL2IogiOw)
+![[unnamed.png]] 
+
 
 The thing about charges is that they can repel and attract. This is because they want to be electrically neutral. As such if they are positively or negatively charged, they will repel things with the same charge as them. However if something had a different charge to them, then they would attract the object. This table below is an easy way to remember it:
 
@@ -124,7 +125,8 @@ The thing about charges is that they can repel and attract. This is because they
 
 > [!NOTE] As the saying goes, Opposites attract!
 
-<b><u>Conductors and Insulators</u></b> <br>
+<br>
+<h3><u>Conductors and Insulators</u></h3>
 One final thing we need to learn about are conductors and insulators! 
 
 <b><u>Conductors</u></b> <br>
@@ -143,5 +145,31 @@ Common examples of insulators are:
 - Wool
 - Distilled Water (Pure water)
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfpdf95EK2tUTei0jPhxc-hUz9_gVxh5mBI6BDKqUip-iCuEkB8SGUQqDE2QBTMdoPX7yAMzzaD_qyQV73i6KRfC0HrjxhJkyNQYttXPVSa7YIu4JWzo2p4oSvwHlpNVfmlKBH5JFvhnQ4IdDYpnX05ZX5ANLc3=s2048?key=0WvajiLUfUuTlLL2IogiOw)
+![[conductorsinsulators.png]]
+
+<br>
+<h3><u>Electricity</u></h3>
+<b><u>Static Electricity</u></b> <br>
+Now that we've learnt about charges, we can understand what Electricity is and how Electricity works. There are two types of Electricity: Static and Current/Live. Static Electricity occurs naturally and you've probably experienced it yourself. Have you ever been jumping on a trampoline and when you went to get off, been zapped by the metal framing of the trampoline? That was static electricity! 
+
+Static electricity is when the amount of positive and negative charges on the surface of a material or between materials are different. So how does this occur? We can make static electricity occur by rubbing two materials against each other. This works best with insulators rather than conductors since electrons can't move well in insulators! 
+
+So why does rubbing two materials against each other create static electricity? When the two objects rub against each other, this allows electrons to be transferred from one object to the other, giving said object more electrons than protons and therefore a negative charge. 
+
+Certain conditions allow for static electricity to work best, it is important to understand why!
+
+| Condition                                | Why?                                                                        |
+| ---------------------------------------- | --------------------------------------------------------------------------- |
+| The materials should be insulators       | The materials must be insulators so the charge cannot disperse              |
+| The materials must be rubbed together    | Friction is required to move charges from one material to the other         |
+| The materials and atmosphere must be dry | Dry conditions ensure that the charge is not conducted away in the moisture |
+
+
+![[balloon1.png]]
+![[balloon2.png]]
+
+> [!NOTE] Why does our hair stick up after a balloon is rubbed on it? 
+> When you rub a balloon on your hair, the friction transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[c6181314b7b2c0833274a82bc8251762.jpg]]
+
+
 
