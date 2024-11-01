@@ -4,7 +4,7 @@ tags:
   - Science
 ---
 
-![[public/Science/Pictures/periodictable.png]]
+![[periodic_table.png]]
 
 ---
 # Physical and Chemical Changes
@@ -38,7 +38,7 @@ tags:
 - Sub Particles, also known as sub-atomic particles, are particles smaller than atoms
 - Ions are atoms or groups of atoms with a non-neutral charge to have a full valence (outer) shell
 
-![[content/Science/Parts-of-an-Atom-1024x683.png]]
+![[atom_diagram.png]]
 
 ## What are Atoms made up of?
 Atoms are made up of three different sub particles - Protons, Electrons, and Neutrons. The Protons and Neutrons make up the nucleus while the electrons surround the nucleus. 
@@ -61,6 +61,7 @@ $$Atomic Mass-NumberOfNeutrons=NumberOfProtons$$
 > In an element, there are always an equal number of Protons and Electrons. This is because particles with a positive charge attract particles with a negative charge due to magnetism. This then gives the atom a neutral charge. Although, this is different in an ion as an atom loses or gains electrons to have a full valence shell!
 
 Meanwhile for Neutrons, there is only one way to find how many there are. First, round the atomic mass to the closest whole number. You then subtract the atomic number from the atomic mass and this will leave you with the number of Neutrons in the atom!
+
 $$
 Atomic Mass -AtomicNumber = NumberOfNeutrons
 $$
@@ -99,7 +100,7 @@ Writing Ions is easy, simply write the chemical symbol of the element the ion is
 To draw atoms and ions, draw a circle with the chemical symbol at the top centre (If you are drawing an ion, draw the ion's charge along with the element symbol). Below it, write  `P =` followed by the number of protons. Below that write `N =` followed by the number of neutrons. Next, draw a circle for each electron shell you need around the circle. Use crosses for the electrons, I like to space them out evenly. Finally draw the electron configuration (This is the number of electrons in each shell). Remember the first four can have a maximum of the following number of electrons respectfully: 2, 8, 8, 18.
 
 <u><b>Example:</u></b>
-![[Untitled drawing.png]]
+![[sodium_ion_atom.png]]
 
 
 # Acids and Bases
@@ -147,7 +148,7 @@ There are many different types of Litmus paper, however the two types we will fo
 <h5><u>Universal Indicator</u></h5>  
 Universal indicator measures how much H<sup>+</sup> is in a solution. This is also where pH gets its name! Universal indicator represents this as a colour, with warmer colours being an acid and cooler colours being a base! You can use this chart below for reading pH levels from universal indicator: 
 
-![[universalindicator.png]]
+![[universal_indicator.png]]
 
 
 > [!NOTE] Why use Litmus Paper instead of Universal Indicator?
@@ -175,7 +176,7 @@ We will learn about four different reactions: Neutralisation, Neutralisation (Ca
 > [!NOTE] Brackets in the symbols?
 > Brackets are used when you have a group of atoms for a single ion and need to say there is more than one of said ion. An example of this is the Ion Hydroxide whose chemical symbol is OH<sup>-</sup> 
 
-![[tableofions.png]]
+![[table_of_ions.png]]
 
 ## Reading and Writing Chemical Reactions
 
@@ -196,7 +197,7 @@ A neutralisation reaction is when an acid and a base react to form a salt and wa
 
 $$ Acid + Base → Salt + Water$$
 
-![[Pasted image 20241027110012.png]]
+![[word_equation_example.png]]
 
 > [!NOTE] Neutralisation Reaction Example
 > $$2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O$$
@@ -238,11 +239,11 @@ $$Metal + Oxygen → Metal Oxide$$
 ## Balancing Equations
 Balancing equations is when you make sure there is an equal amount of each ion on both the reactant side and the products side. Here is an example on how it works:
 
-![[Pasted image 20241027112833.png]]
+![[unbalanced_example.png]]
 
 Notice in this example how there are not enough Chloride ions on one side, and too many oxygen and hydrogen ions on the other? You can fix the chloride ion balance issue by adding another hydrochloric acid which then leaves you with 2 extra hydrogen ions and 1 extra oxygen ion. These can be used to create another water which then makes your equation balanced as there are an equal amount of ions on each side.
 
-![[Pasted image 20241027113110.png]]
+![[balanced_example.png]]
 
 ---
 # Testing for Gases 
@@ -252,7 +253,7 @@ In science, you often want to test for things to prove something is happening. O
 
 To test for hydrogen gas, you can do the pop test. Since hydrogen is flammable, it will combust (burn). Therefore when a splint is lit on fire and brought to the gas, a pop sound can be heard. The best way to do this is to use your thumb to cover the top of the test tube and let the hydrogen gas build up in the test tube. You then release your thumb and bring the splint to a bit above the test tube, if you hear a pop then there is hydrogen gas!
 
- ![[poptest.png]]
+ ![[pop_test.png]]
 
 ## Testing for Carbon Dioxide
 There are two ways to test for carbon dioxide: The flame test and the lime-water (calcium hydroxide) test. When lime-water reacts with carbon dioxide it goes from clear to a milky colour. An issue with this test is its hard to get gas from a reaction to flow into the lime water so we typically use a different method. This is the flame method. 
@@ -261,9 +262,9 @@ There are two ways to test for carbon dioxide: The flame test and the lime-water
 
 Since fire needs oxygen to burn, if you were to suffocate the fire in carbon dioxide, it would put out the flame. This can be done using your thumb to cover the top of the test tube to let carbon dioxide build up and putting a match on fire down into the test tube. If the flame goes out then there is carbon dioxide
 
-![[carbondioxidetest.png]]
+![[carbon_dioxide_match_test.png]]
 
 ## Testing for Oxygen
 You can also use fire to test for oxygen! Unlike carbon dioxide which kills a fire, oxygen feeds the fire. Therefore if you were to use your thumb to cover the test tube and let oxygen build up, then put a match with only a spark of a flame left, it will revive the flame. If the match is still on fire, the fire will burn brighter as it has more oxygen to burn.
 
-![[content/Science/image-28.webp]] 
+![[oxygen_test.webp]] 

@@ -29,7 +29,7 @@ Currently you are experiencing 4 different forces: weight force, support force, 
 
 We use the term balanced and unbalanced to say whether each force and its opposite is equal or not. If a force is balanced that means the forces are equal and therefore you are either stationary or moving at a constant speed relative to the force. Meanwhile if a force is unbalanced then you are accelerating (moving faster and faster). 
 
-![[Untitled drawing 1.png]]
+![[car_forces_diagram.png]]
 > [!NOTE] Arrow Sizes
 > Notice how the weight and support arrows are the same size, while the push arrow is larger than the friction arrow? That's because the push force is greater than the friction force!
 
@@ -61,7 +61,7 @@ $$Force = Mass \cdot Acceleration$$
 
 You can also calculate mass and acceleration if you know the force and the other variable! You can use this force triangle to rearrange the formula: 
 
-![[forcetriangle.jpg]] 
+![[force_triangle.jpg]] 
 
 
 > [!NOTE] Examples
@@ -96,7 +96,7 @@ $$Displacement = Velocity \cdot Time$$
 
 Like force, you can also calculate velocity and time if you know the distance and the other variable! You can use this Displacement triangle to rearrange the formula:
 
-![[velocitytriangle.webp]]
+![[velocity_triangle.webp]]
 
 > [!NOTE] Examples
 > <h4><u>Displacement = Velocity * Time</u></h4>
@@ -115,13 +115,17 @@ Like force, you can also calculate velocity and time if you know the distance an
 > An object that was displaced 100 metres with an average velocity of 10m/s travelled for 10s
 
 
+# Light and Mirrors
+
+
+
 # Electricity and Magnetism *WIP*
 
 As we know, everything is made out of atoms. Atoms are made up of  electrons, protons and neutrons. So, why is this important? Neutrons aren't that important in this situation however since we're all made up of electrons and protons that means everything has a charge. 
 
 Most objects are not electrically charged, this is because they have the same amount of electrons, which have a negative charge, and protons, which have a positive charge. This makes them, as stated earlier, not electrically charged and as such electrically neutral. For example this ball would be electrically neutral as they have the same amount of electrons and protons.
 
-![[content/Science/unnamed.png]] 
+![[neutrally_charged_object.png]] 
 
 
 The thing about charges is that they can repel and attract. This is because they want to be electrically neutral. As such if they are positively or negatively charged, they will repel things with the same charge as them. However if something had a different charge to them, then they would attract the object. This table below is an easy way to remember it:
@@ -160,7 +164,7 @@ Common examples of insulators are:
 - Wool
 - Distilled Water (Pure water)
 
-![[conductorsinsulators.png]]
+![[conductors_insulators.png]]
 <br>
 <br>
 
@@ -183,11 +187,11 @@ Certain conditions allow for static electricity to work best, it is important to
 | The materials and atmosphere must be dry | Dry conditions ensure that the charge is not conducted away in the moisture |
 
 
-![[balloon1.png]] <br>
+![[balloon.png]] <br>
 ![[balloon2.png]]
 
 > [!NOTE] An example of static electricity 
-> An example of static electricity is when you rub a balloon on your hair. The friction caused by rubbing the balloon on your head transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[catstaticelectricity.jpg]]
+> An example of static electricity is when you rub a balloon on your hair. The friction caused by rubbing the balloon on your head transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[cat_static.jpg]]
 
 
 ### Current Electricity 
@@ -199,18 +203,6 @@ Electricity flows through circuits. Circuits are a path which electrons flow thr
 ## Circuits
 <br>
 Before you can begin drawing circuits, there are a few things you need to know before hand. The first are circuit symbols and their functions:
-
-| Name       | Symbol                 |
-| ---------- | ---------------------- |
-| Wire       | ![[content/Science/electrical_symbols/wire.png]]          |
-| Cell       | ![[content/Science/electrical_symbols/cell.jpg]]          |
-| Battery    | ![[content/Science/electrical_symbols/battery.webp]]      |
-| Switch     | ![[content/Science/electrical_symbols/switch.webp]]       |
-| Light Bulb | ![[content/Science/electrical_symbols/bulb.png]]          |
-| Voltmeter  | ![[content/Science/electrical_symbols/voltmeter.png]]     |
-| Ammeter    | ![[content/Science/electrical_symbols/ammeter.jpg]]       |
-| Resistor   | ![[content/Science/electrical_symbols/fixedresistor.png]] |
-| Fuse       | ![[content/Science/electrical_symbols/fuse.png]]          |
 
 <b><u>Wire</u></b> 
 Wires are what directs the flow of the electrons and connects the electrical components to the energy source of the circuit.  
