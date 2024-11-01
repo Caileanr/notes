@@ -4,7 +4,7 @@ tags:
   - Science
 ---
 
-![[content/Science/PeriodicTableCharge-WBG-56a12db23df78cf772682c37.png]]
+![[public/Science/Pictures/periodictable.png]]
 
 ---
 # Physical and Chemical Changes
