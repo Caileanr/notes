@@ -61,7 +61,7 @@ $$Force = Mass \cdot Acceleration$$
 
 You can also calculate mass and acceleration if you know the force and the other variable! You can use this force triangle to rearrange the formula: 
 
-![[content/Science/original-4967819-1.jpg]] 
+![[forcetriangle.jpg]] 
 
 
 > [!NOTE] Examples
@@ -96,7 +96,7 @@ $$Displacement = Velocity \cdot Time$$
 
 Like force, you can also calculate velocity and time if you know the distance and the other variable! You can use this Displacement triangle to rearrange the formula:
 
-![[content/Science/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3ZlbG9jaXR5LWZvcm11bGEtbmV3MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMH19fQ==.webp]]
+![[velocitytriangle.webp]]
 
 > [!NOTE] Examples
 > <h4><u>Displacement = Velocity * Time</u></h4>
@@ -187,7 +187,7 @@ Certain conditions allow for static electricity to work best, it is important to
 ![[balloon2.png]]
 
 > [!NOTE] An example of static electricity 
-> An example of static electricity is when you rub a balloon on your hair. The friction caused by rubbing the balloon on your head transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[content/Science/c6181314b7b2c0833274a82bc8251762.jpg]]
+> An example of static electricity is when you rub a balloon on your hair. The friction caused by rubbing the balloon on your head transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[catstaticelectricity.jpg]]
 
 
 ### Current Electricity 
