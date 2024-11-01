@@ -4,11 +4,11 @@ tags:
   - Science
 ---
 
-![[PeriodicTableCharge-WBG-56a12db23df78cf772682c37.png]]
+![[content/Science/PeriodicTableCharge-WBG-56a12db23df78cf772682c37.png]]
 
 ---
-<h2>Physical and Chemical Changes</h2>
-<b><u>What are Physical and Chemical Changes?</u></b>
+# Physical and Chemical Changes
+## What are Physical and Chemical Changes?
 
 - Chemical changes are changes that form new substances, these are not easily revertible
 - Physical changes are changes that do not form new substances, these are easily revertible
@@ -30,17 +30,17 @@ tags:
 > [!NOTE] When do Physical and Chemical Changes Occur?
 > Physical and Chemical changes occur when a reaction occurs. These can either be a Physical change, Chemical change, or both
 
----
-<h2>Atoms, Sub Particles, and Ions</h2>
-<b><u>What are Atoms, Sub Particles, and Ions?</u></b>
+
+# Atoms, Sub Particles, and Ions
+## What are Atoms, Sub Particles, and Ions?
 
 - Atoms are the building blocks of everything and are what makes up the world
 - Sub Particles, also known as sub-atomic particles, are particles smaller than atoms
 - Ions are atoms or groups of atoms with a non-neutral charge to have a full valence (outer) shell
 
-![[Parts-of-an-Atom-1024x683.png]]
+![[content/Science/Parts-of-an-Atom-1024x683.png]]
 
-<h5><u>What are Atoms made up of?</u></h5>
+## What are Atoms made up of?
 Atoms are made up of three different sub particles - Protons, Electrons, and Neutrons. The Protons and Neutrons make up the nucleus while the electrons surround the nucleus. 
 <br><br>
 
@@ -69,7 +69,7 @@ $$
 > If you're having trouble finding the Atomic mass, it is always the bigger number, while the atomic number is always the smaller number!
 
 
-<h4><u>Electrons and Ions</u></h4>
+## Electrons and Ions 
 Electrons surround the nucleus in shells. Electron Shells are a way for scientists to visualise zones around the nucleus of an atom which each contain a specific number of electrons. The number of electrons in each Electron Shell goes as follows: 
 
 - In the First shell there are a maximum of two electrons, 
@@ -95,14 +95,15 @@ Writing Ions is easy, simply write the chemical symbol of the element the ion is
 > 
 > This gives sodium a positive charge of one which is then written as Na⁺
 
-<h5><u>Drawing Atoms and Ions</u></h5>
+## Drawing Atoms and Ions
 To draw atoms and ions, draw a circle with the chemical symbol at the top centre (If you are drawing an ion, draw the ion's charge along with the element symbol). Below it, write  `P =` followed by the number of protons. Below that write `N =` followed by the number of neutrons. Next, draw a circle for each electron shell you need around the circle. Use crosses for the electrons, I like to space them out evenly. Finally draw the electron configuration (This is the number of electrons in each shell). Remember the first four can have a maximum of the following number of electrons respectfully: 2, 8, 8, 18.
 
 <u><b>Example:</u></b>
 ![[Untitled drawing.png]]
 
----
-<h2><u>Acid and Bases</u></h2>
+
+# Acids and Bases
+## What are acid and bases?
 There are many different substances in this world, they can be categorized into three different groups: Acids, Bases, and Neutrals, each with their own characteristics. 
 
 <h5><u>Acids</u></h5> 
@@ -131,7 +132,7 @@ Common examples of Bases are:
 Neutral solutions are solutions with the same amount of H<sup>+</sup> and OH<sup>-</sup> ions. The most commonly found neutral solution is H<sub>2</sub>O (water). They have a pH of 7
 
 ---
-<h4><u>Indicators</u></h4> 
+## Indicators
 Since water, acids, and bases tend to be colourless, this makes it basically impossible to identify with the human eye. This is why we use indicators! The two we are going to learn about are litmus paper and universal indicator.
 
 <h5><u>Litmus Paper</u></h5> 
@@ -146,14 +147,15 @@ There are many different types of Litmus paper, however the two types we will fo
 <h5><u>Universal Indicator</u></h5>  
 Universal indicator measures how much H<sup>+</sup> is in a solution. This is also where pH gets its name! Universal indicator represents this as a colour, with warmer colours being an acid and cooler colours being a base! You can use this chart below for reading pH levels from universal indicator: 
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfG74qf25w6X70yfnqfFX87OGr8XbkucUBPmvD6nuvb6jzmWYAuYrOSbgDResAnLH0cM47vceWKxEp6sSPVQo3i6ss0OED_4I9dS8PwaBHwvd-7K0yEYTkpNjLzPVT-ohnXpj7qXXg2h6KckBaqyVr10OE0-qfI=s2048?key=BZkH7wlCJoHNVBa5BCqUyQ)
+![[universalindicator.png]]
 
 
 > [!NOTE] Why use Litmus Paper instead of Universal Indicator?
 > Universal Indicator may seem like the superior option, however depending on the situation it is not. Although universal indicator shows you the strength of the acid or base, it contaminates the solution and therefore makes it useless as the chemical reaction is occurring in the solution. Litmus Paper does not contaminate the solution as the chemical reaction occurs in the Litmus Paper instead. Therefore depending on your situation Litmus Paper may be the better choice!
 
 ---
-<h4><u>Reactions</u></h4> 
+# Reactions
+
 We will learn about four different reactions: Neutralisation, Neutralisation (Carbonate), Metal + Acid and Metal Oxide.  For this, it is recommended to memorise the following acids, bases, and if you don't want to calculate charges of ions every time, this ion table:
 
 | Acid/Base | Name                | Symbol  | Name Change | Forms CO₂       |
@@ -166,14 +168,17 @@ We will learn about four different reactions: Neutralisation, Neutralisation (Ca
 | Base      | Sodium Carbonate    | CaCO₃   | Sodium      | Yes             |
 | Base      | Calcium Carbonate   | Na₂CO₃  | Calcium     | Yes             |
 
+
 > [!NOTE] Is it an acid or base?
 > Notice how the name of acids end with "Acid", while the end of bases either end with Hydroxide or Carbonate. You can use this to identify if something is an acid or base
 
 > [!NOTE] Brackets in the symbols?
 > Brackets are used when you have a group of atoms for a single ion and need to say there is more than one of said ion. An example of this is the Ion Hydroxide whose chemical symbol is OH<sup>-</sup> 
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfYfXYkTcM3rJzyxpWWhA5UKGGGEiB5E1_meb_shtTNGqYRtQHxd8VQeh_45U8fHBSw63kTB39lGYsPkF_9Az4esvfvOCSn2mmtPELf7RO4WsDVpWTeq6iqr5p9Wou0YLGUgXZC6mnBLnxET6mXsWY1NHCEDA1Q=s2048?key=BZkH7wlCJoHNVBa5BCqUyQ) 
-<h5><u> Reading and Writing Chemical Reactions </u></h5>
+![[tableofions.png]]
+
+## Reading and Writing Chemical Reactions
+
 Before we can get into doing equations, we must first learn how to write and read solutions. Since chemical symbols for elements can have more than one letter, we use a capital letter to say it is the beginning of a new ion. The small number in the bottom right of an ion is the number of said ion. Next, Brackets are used when you have a group of atoms for a single ion and need to say there is more than one of said ion. Finally, a normal number in front of a solution is the amount of said solution in a reaction. Remember not to write charges in your finished equations, you can use them to help you solve them though!
 
 > [!NOTE] Examples
@@ -185,7 +190,7 @@ Before we can get into doing equations, we must first learn how to write and rea
 Chemical equations, like math, are read left to right. The reactants are on the left hand side followed by an arrow and the products on the right hand side:
 
 $$Reactants → Products$$
-<h5><u> Neutralisation Reaction </u></h5>
+## Neutralisation Reaction 
 A neutralisation reaction is when an acid and a base react to form a salt and water. This isn't the same type of salt you use in cooking though. So how do you name the salt? The first part of the salt comes from the base. If the base is a magnesium based base, the first part of the salt would be "magnesium" and nothing changes. The second part of the salt comes from the acid. If the acid was hydrochloric acid, the second part of the salt would be "chloride" therefore the salt would be "Magnesium Chloride". Refer to the table above for the name changes for the acid part. If the base ends with carbonate, you should use a carbonate neutralisation reaction.
 
 
@@ -199,7 +204,7 @@ $$ Acid + Base → Salt + Water$$
 > <br>2 Hydrochloric Acid + Magnesium Hydroxide → Magnesium Chloride + 2 Water
 
 
-<h5><u> Neutralisation (Carbonate) Reaction</u></h5>
+## Neutralisation (Carbonate) Reaction
 A carbonate neutralisation reaction is the same as a normal neutralisation reaction however the base creates carbon dioxide as one of the products as well as salt and water. You use a carbonate neutralisation reaction when the base ends with carbonate. 
 
 $$ Acid + Base → Salt + Water + CarbonDioxide$$
@@ -209,7 +214,7 @@ $$ Acid + Base → Salt + Water + CarbonDioxide$$
 > 
 > <br>Sodium Carbonate + 2 Hydrochloric Acid → 2 Sodium Chloride + 1 Water + 1 Carbon Dioxide 
 
-<h5><u> Metal + Acid Reaction</u></h5>
+## Metal + Acid Reaction
 A Metal + Acid reaction is when a metal is dissolved in an acid, creating a salt and hydrogen gas. 
 
 $$Metal + Acid → Salt + HydrogenGas$$
@@ -219,7 +224,7 @@ $$Metal + Acid → Salt + HydrogenGas$$
 > 
 > <br>Magnesium + Hydrochloric Acid → Magnesium Chloride + Hydrogen Gas
 
-<h5><u> Metal Oxide Reaction</u></h5>
+## Metal Oxide Reaction
 The Metal Oxide reaction is when you burn metal in oxygen. The metal and oxygen react together to form a metal oxide. 
 
 $$Metal + Oxygen → Metal Oxide$$
@@ -230,7 +235,7 @@ $$Metal + Oxygen → Metal Oxide$$
 > <br>Magnesium + Oxygen Gas → Magnesium Oxide
 
 ---
-<h5><u> Balancing Equations</u></h5>
+## Balancing Equations
 Balancing equations is when you make sure there is an equal amount of each ion on both the reactant side and the products side. Here is an example on how it works:
 
 ![[Pasted image 20241027112833.png]]
@@ -240,24 +245,25 @@ Notice in this example how there are not enough Chloride ions on one side, and t
 ![[Pasted image 20241027113110.png]]
 
 ---
-<h2><u>Testing for Gases</u></h2>  
+# Testing for Gases 
 In science, you often want to test for things to prove something is happening. One thing you may want to test for are gases! Specifically we will focus on the following gases: Hydrogen gas, Oxygen and Carbon Dioxide.
 
-<h5>Testing for Hydrogen gas - The pop test!</h5>
+## Testing for Hydrogen gas - The pop test!
+
 To test for hydrogen gas, you can do the pop test. Since hydrogen is flammable, it will combust (burn). Therefore when a splint is lit on fire and brought to the gas, a pop sound can be heard. The best way to do this is to use your thumb to cover the top of the test tube and let the hydrogen gas build up in the test tube. You then release your thumb and bring the splint to a bit above the test tube, if you hear a pop then there is hydrogen gas!
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfA2nINHuPl1KdtPRPOpMvlxmLQArnrbsg2pmgDbHwAeye5sXOb1ClegPXbNN17afYnI2futI4gYfmw6VVbQ0Z92Nar1x5vpfTPkHNEgOYq0vjEYQZmz6dohhsDl5e5QFXtQPAA0zuJ2v39RqraGmHqRAcVwEWQ=s2048?key=BZkH7wlCJoHNVBa5BCqUyQ) 
+ ![[poptest.png]]
 
-<h5>Testing for Carbon Dioxide</h5>
+## Testing for Carbon Dioxide
 There are two ways to test for carbon dioxide: The flame test and the lime-water (calcium hydroxide) test. When lime-water reacts with carbon dioxide it goes from clear to a milky colour. An issue with this test is its hard to get gas from a reaction to flow into the lime water so we typically use a different method. This is the flame method. 
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfIobtqxgQT5K6BW3wV7qsRGSBDtgtnq8dvzZ-l1bndaazFJVsWofinA_lyu-o_PWRrQB4xRbMiDkxjknP-fG8Un1QD5M2VGSzyqzuUpXIGIViHwgD0MZ0EIP3bQ51KHD5wJgrLF71VLzVm6GgTAUdwITblrLk1=s2048?key=BZkH7wlCJoHNVBa5BCqUyQ)
+![[limewater.png]]
 
 Since fire needs oxygen to burn, if you were to suffocate the fire in carbon dioxide, it would put out the flame. This can be done using your thumb to cover the top of the test tube to let carbon dioxide build up and putting a match on fire down into the test tube. If the flame goes out then there is carbon dioxide
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcqzxnkJ6jzlvhvCg89lG-y7koWvdivTcu9CPFpmIrHMo44NvIVoebRiqL4jh5Lz9KlmXNlWb_kTBaVv0QG9VF09u7dKdHz6vZmehkIA6YTEj0Io6UFuTB70pJaGIjveuYMwoO6yQuxnhe17ySemgjHTDAOxUs=s2048?key=BZkH7wlCJoHNVBa5BCqUyQ) 
+![[carbondioxidetest.png]]
 
-<h5>Testing for Oxygen</h5>
+## Testing for Oxygen
 You can also use fire to test for oxygen! Unlike carbon dioxide which kills a fire, oxygen feeds the fire. Therefore if you were to use your thumb to cover the test tube and let oxygen build up, then put a match with only a spark of a flame left, it will revive the flame. If the match is still on fire, the fire will burn brighter as it has more oxygen to burn.
 
-![[image-28.webp]] 
+![[content/Science/image-28.webp]] 

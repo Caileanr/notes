@@ -3,7 +3,10 @@ title: Physics
 tags:
   - Science
 ---
-<b><u>What is a force?</u></b><br>
+ 
+# Movement and Forces 
+
+
 A force is a pull, push, or twist of an object
 Unit = Newtons (N)
 
@@ -22,7 +25,8 @@ Currently you are experiencing 4 different forces: weight force, support force, 
 > [!NOTE] Balanced Weight and Support Forces!
 > Since you're not getting crushed by your weight force or floating away from your support force, those forces are currently balanced! Hopefully your weight force doesn't greater than your support force :P
 
-<b><u>Balanced and Unbalanced Forces</u></b><br>
+### Balanced and Unbalanced Forces
+
 We use the term balanced and unbalanced to say whether each force and its opposite is equal or not. If a force is balanced that means the forces are equal and therefore you are either stationary or moving at a constant speed relative to the force. Meanwhile if a force is unbalanced then you are accelerating (moving faster and faster). 
 
 ![[Untitled drawing 1.png]]
@@ -37,7 +41,9 @@ $$Force -OppositeForce=ResultantForce$$
 
 Doing so we can find out there is 2000N of push force being exerted on the car.
 <br><br>
-<b><u>Calculating Force</u></b><br>
+## Formulas and Calculation
+### Calculating Force
+
 The formula to calculate force is:<br><br>
 $$Force = Mass \cdot Acceleration$$
 <br><br>Where force (F) is in newtons (N), mass(M) is in kilograms (kg) and Acceleration(A) is in Metres per second per second (m/s/s or ms<sup>-2</sup>) 
@@ -55,7 +61,7 @@ $$Force = Mass \cdot Acceleration$$
 
 You can also calculate mass and acceleration if you know the force and the other variable! You can use this force triangle to rearrange the formula: 
 
-![[original-4967819-1.jpg]] 
+![[content/Science/original-4967819-1.jpg]] 
 
 
 > [!NOTE] Examples
@@ -75,7 +81,8 @@ You can also calculate mass and acceleration if you know the force and the other
 > An object with 100 newtons of force that is accelerating at 10m/s/s has a mass of 10 kilograms
 
 
-<b><u>Calculating Displacement</u></b><br>
+### Calculating Displacement
+
 The formula  for calculating displacement is:<br>
 
 $$Displacement = Velocity \cdot Time$$
@@ -89,7 +96,7 @@ $$Displacement = Velocity \cdot Time$$
 
 Like force, you can also calculate velocity and time if you know the distance and the other variable! You can use this Displacement triangle to rearrange the formula:
 
-![[eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3ZlbG9jaXR5LWZvcm11bGEtbmV3MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMH19fQ==.webp]]
+![[content/Science/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3ZlbG9jaXR5LWZvcm11bGEtbmV3MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMH19fQ==.webp]]
 
 > [!NOTE] Examples
 > <h4><u>Displacement = Velocity * Time</u></h4>
@@ -107,13 +114,14 @@ Like force, you can also calculate velocity and time if you know the distance an
 > $$100m \div 10ms^{-1} = 10s$$ <br>
 > An object that was displaced 100 metres with an average velocity of 10m/s travelled for 10s
 
-<hr>
-<h2><u>Electricity and Magnetism</u></h2>
+
+# Electricity and Magnetism *WIP*
+
 As we know, everything is made out of atoms. Atoms are made up of  electrons, protons and neutrons. So, why is this important? Neutrons aren't that important in this situation however since we're all made up of electrons and protons that means everything has a charge. 
 
 Most objects are not electrically charged, this is because they have the same amount of electrons, which have a negative charge, and protons, which have a positive charge. This makes them, as stated earlier, not electrically charged and as such electrically neutral. For example this ball would be electrically neutral as they have the same amount of electrons and protons.
 
-![[unnamed.png]] 
+![[content/Science/unnamed.png]] 
 
 
 The thing about charges is that they can repel and attract. This is because they want to be electrically neutral. As such if they are positively or negatively charged, they will repel things with the same charge as them. However if something had a different charge to them, then they would attract the object. This table below is an easy way to remember it:
@@ -124,19 +132,26 @@ The thing about charges is that they can repel and attract. This is because they
 | -       | Attract | Repel   |
 
 > [!NOTE] As the saying goes, Opposites attract!
-
 <br>
-<h3><u>Conductors and Insulators</u></h3>
-One final thing we need to learn about are conductors and insulators! 
 
+
+
+### Conductors and Insulators
+
+One final thing we need to learn about are conductors and insulators! 
+<br>
 <b><u>Conductors</u></b> <br>
+
 Conductors are simply substances that allow electrons (charge) to flow through easily! You can think of conductors as basically a greenlight, allowing all the electrons to go through.
 
 Common examples of conductors are:
 - Metals (Such as copper, gold, and brass)
 - Non-distilled Water (Normal drinking water)
 <br>
+<br>
+
 <b><u>Insulators</u></b> <br>
+
 Insulators are, as the name suggests, substances that don't allow electrons (charge) to flow through easily. You can think of electricity as heat. Insulators, like in houses, trap the heat and make it hard for it to escape through the insulation. Insulators do the same thing with electricity. Although they have the same name, the insulators in houses and in electricity are not the same!
 
 Common examples of insulators are:
@@ -146,10 +161,13 @@ Common examples of insulators are:
 - Distilled Water (Pure water)
 
 ![[conductorsinsulators.png]]
-
 <br>
-<h3><u>Electricity</u></h3>
-<b><u>Static Electricity</u></b> <br>
+<br>
+
+## Electricity
+
+### Static Electricity
+
 Now that we've learnt about charges, we can understand what Electricity is and how Electricity works. There are two types of Electricity: Static and Current/Live. Static Electricity occurs naturally and you've probably experienced it yourself. Have you ever been jumping on a trampoline and when you went to get off, been zapped by the metal framing of the trampoline? That was static electricity! 
 
 Static electricity is when the amount of positive and negative charges on the surface of a material or between materials are different. So how does this occur? We can make static electricity occur by rubbing two materials against each other. This works best with insulators rather than conductors since electrons can't move well in insulators! 
@@ -165,11 +183,54 @@ Certain conditions allow for static electricity to work best, it is important to
 | The materials and atmosphere must be dry | Dry conditions ensure that the charge is not conducted away in the moisture |
 
 
-![[balloon1.png]]
+![[balloon1.png]] <br>
 ![[balloon2.png]]
 
-> [!NOTE] Why does our hair stick up after a balloon is rubbed on it? 
-> When you rub a balloon on your hair, the friction transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[c6181314b7b2c0833274a82bc8251762.jpg]]
+> [!NOTE] An example of static electricity 
+> An example of static electricity is when you rub a balloon on your hair. The friction caused by rubbing the balloon on your head transfers electrons from your hair to the balloon. This leaves your hair positively charged and the balloon negatively charged. As we know, objects with the same charge repel each other, so our individual hairs repel each other which causes them to separate and stand on end. <br><br> ![[content/Science/c6181314b7b2c0833274a82bc8251762.jpg]]
 
 
+### Current Electricity 
+<br>
+Current/Live electricity is the electricity that comes out of the outlets in your walls. This can be used to power electrical components and is used to power everything from lights and fans to fridges, washing machine, and computers! From now on I will refer to current electricity as simply electricity. 
+
+Electricity flows through circuits. Circuits are a path which electrons flow through and are composed of electronic components and an energy source which is connected by wires. 
+
+## Circuits
+<br>
+Before you can begin drawing circuits, there are a few things you need to know before hand. The first are circuit symbols and their functions:
+
+| Name       | Symbol                 |
+| ---------- | ---------------------- |
+| Wire       | ![[content/Science/electrical_symbols/wire.png]]          |
+| Cell       | ![[content/Science/electrical_symbols/cell.jpg]]          |
+| Battery    | ![[content/Science/electrical_symbols/battery.webp]]      |
+| Switch     | ![[content/Science/electrical_symbols/switch.webp]]       |
+| Light Bulb | ![[content/Science/electrical_symbols/bulb.png]]          |
+| Voltmeter  | ![[content/Science/electrical_symbols/voltmeter.png]]     |
+| Ammeter    | ![[content/Science/electrical_symbols/ammeter.jpg]]       |
+| Resistor   | ![[content/Science/electrical_symbols/fixedresistor.png]] |
+| Fuse       | ![[content/Science/electrical_symbols/fuse.png]]          |
+
+<b><u>Wire</u></b> 
+Wires are what directs the flow of the electrons and connects the electrical components to the energy source of the circuit.  
+
+<b><u>Cell</u></b> 
+Cells are an energy source that powers a circuit. Electrons flow through the smaller side of the cell (The negative side) through the circuit and back to the bigger side of the cell (The positive side). This happens because electrons are negatively charged and are therefore repelled from the negative side of the cell. Their attraction to positive particles helps them flow through the circuit where they then travel back to the cell. 
+
+<b><u>Battery</u></b> 
+Batteries are a multi-cell energy source that powers a circuit. Electrons flow through the side of the battery that ends with a small line (The negative side) through the circuit and back to the side of the battery that ends with a bigger line (The positive side). This happens because electrons are negatively charged and are therefore repelled from the negative side of the battery. Their attraction to positive particles helps them flow through the circuit where they then travel back to the battery. 
+
+<b><u>Switch</u></b> 
+Switches are 
+
+<b><u>Bulb</u></b> 
+Bulbs are light bulbs. They turn electrical energy into light energy...
+
+<b><u>Voltmeter</u></b> 
+
+
+<b><u>Ammeter</u></b> 
+<b><u>Resistor</u></b>
+<b><u>Fuse</u></b> 
 
