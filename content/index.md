@@ -28,6 +28,13 @@ title: Dev Notes
 
 ## Biology
 
+- Flowers
+- Pollinators
+
+<hr>
+
+- Eyes
+
 <hr>
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
