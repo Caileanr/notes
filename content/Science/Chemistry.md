@@ -8,6 +8,7 @@ tags:
 
 ---
 # Physical and Chemical Changes
+
 ## What are Physical and Chemical Changes?
 
 - Chemical changes are changes that form new substances, these are not easily revertible
@@ -30,6 +31,54 @@ tags:
 > [!NOTE] When do Physical and Chemical Changes Occur?
 > Physical and Chemical changes occur when a reaction occurs. These can either be a Physical change, Chemical change, or both
 
+## States of Matter
+
+There are three different states of matter: Solids, Liquids, and Gases. 
+
+Solids have a definite shape and volume, made out of tightly packed particles that vibrate in place. Examples of Solids are Wood, Metals, and Plastics.
+
+Liquids have an indefinite shape and a definite volume, made out of loosely bound particles that slide around each other. Liquids take the shape of the container its in. Examples of Liquids are Water, Milk, and Juice.
+
+Gases have an indefinite shape and volume, made out of unbound particles that move fast and spread apart.  Examples of gases are water vapour, oxygen, and carbon dioxide.
+
+| State  | Shape      | Volume     | Particle Density | Movement          |
+| ------ | ---------- | ---------- | ---------------- | ----------------- |
+| Solid  | Definite   | Definite   | Tightly Packed   | Vibrates in place |
+| Liquid | Indefinite | Definite   | Loosely Bound    | Slides around     |
+| Gas    | Indefinite | Indefinite | Unbound          | Spreads apart     |
+
+
+
+![[states_of_matter.jpg]]
+
+There are also words for transitioning between these states: 
+- When transitioning to a Solid to a Liquid it is called Melting.
+- When transitioning from a Liquid to a Gas it is called Evaporation. 
+- When transitioning from a Gas to a Liquid it is called Condensation. 
+- When transitioning from a Liquid to a Solid it is called Solidifying or Freezing. 
+- When transitioning from a Solid to a Gas without entering the liquid phase it is called Sublimation. 
+- When transitioning from a Gas to a Solid without entering the liquid phase it is called Deposition. 
+
+![[phase_changes_of_matter.webp]]
+
+
+> [!NOTE] What state do sound waves travel fastest in?
+> Sound waves travel faster in solids than any other state.  This is because of how sound waves travel. Sound waves travel by vibrating particles, which is why you can't hear sounds in places such as space where there are no particles. Thanks to how tightly packed particles are in a solid, sound waves can quickly and easily be transmitting through them! <br><br>
+> Below is a good visualisation as to why sound travels faster in solids:
+> ![[visualization_of_speed_of_sound_in_different_states.jpg]]
+
+
+## Expansion and Contractions
+
+While on the topic of particles and states of matter, we can learn about Thermal Expansion and Contraction. When particles heat up they gain energy, this energy is used to move around. In solids, the particles vibrate on the spot, meanwhile in gases the particles fly around. We can use this knowledge to understand thermal expansion and contraction. 
+
+Thermal Expansion is when an object gains volume when in a higher temperature. In higher temperatures, the particles in the object have more energy and therefore vibrates more strongly. Since the particles vibrate more strongly, there is more empty space in the object and therefore the object has more volume, making it expand. 
+
+Thermal contraction is when an object loses volume when in a lower temperature. In lower temperatures, the particles in the object have less energy and therefore vibrate less strongly. Since the particles vibrate less strongly, there is less empty space in the object and therefore the object has less volume, making it contract.
+
+![[thermal_expansion_and_contraction.jpg]]
+
+<hr>
 
 # Atoms, Sub Particles, and Ions
 ## What are Atoms, Sub Particles, and Ions?
@@ -103,7 +152,24 @@ To draw atoms and ions, draw a circle with the chemical symbol at the top centre
 ![[sodium_ion_atom.png]]
 
 
-# Acids and Bases
+# Solutions and pH
+## Solvents, Solutes, and Solutions
+Solvents and Solutes both play a major role in chemistry and are extremely important for the world. The relationship between solvents, solutes, and solutions is quite easy to remember, and can be remembered using this formula!
+
+
+$$Solute + Solvent = Solution$$
+
+
+Solutes are things that are dissolved in a solvent to create a solution. An example of this would be ground coffee. Ground coffee dissolves in the water which acts as the solvent and creates coffee as the solution! 
+
+Solvents are things that dissolve solutes to create a solution. An example of this would be milk. Milk dissolves Hot Chocolate Powder which acts as the solute and creates Hot Chocolate as the solution!
+
+Solutions are solutes that have dissolved in a solvent, creating a solution. An example of solutions would be lemonade which is a solution of lemon juice, water, and sugar!
+
+![[solvent_solute_and_solutions.png]]
+
+> [!NOTE] Solutes, Solvents, and Solutions can be any state!
+
 ## What are acid and bases?
 There are many different substances in this world, they can be categorized into three different groups: Acids, Bases, and Neutrals, each with their own characteristics. 
 

@@ -5,10 +5,12 @@ tags:
 ---
 Entire page is WIP
 # Plants 
-
 ## Germination
-## Leaves
+d
 
+## Roots
+## Stem
+## Leaves
 ### Photosynthesis and Respiration
 ## Flowers
 
