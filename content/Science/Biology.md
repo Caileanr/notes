@@ -63,9 +63,42 @@ Respiration is the biochemical process that converts Glucose and Oxygen into Ene
 $$Glucose+Oxygen \rightarrow Carbon \space Dioxide + Water + Energy$$
 
 ### Testing for Starch
+
 A major product created in photosynthesis is a type of sugar called glucose. Since plants can't store glucose, they turn it into starch which is basically long chains of glucose. As proving something happens is an important thing in Science, we can test that starch is getting produced in a leaf, and see if a plant actually requires sunlight to produce starch, by using an iodine solution. Iodine is normally a brown colour, however it turns bluey-black in the presence of starch! 
 ## Flowers
-Skipped :P
+
+![[flower_diagram.png]]
+
+There are multiple parts of the flower, each with its own function:
+
+| Part       | Function                                                                                  |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Stamen     | The male part of the flower which includes the Anther and Filament                        |
+| Anther     | Produces and stores pollen                                                                |
+| Filament   | Supports the Anther                                                                       |
+| Pistil     | The female part of the flower which includes the Stigma, Style, and Ovary                 |
+| Stigma     | The female part of the flower where pollen is needed to land to germinate the flower      |
+| Style      | Supports the stigma and connects it to the ovary                                          |
+| Ovary      | The female reproductive organ of a flower where fertilization and seed development occurs |
+| Pedal      | Brightly coloured to attract animals                                                      |
+| Sepal      | The outer parts of the flower that encloses a developing bud                              |
+| Receptacle | The part of a stalk where the flower is attached                                          |
+| Pollen     | The male gamete of the flower                                                             |
+| Ovules     | The female gamete of the flower                                                           |
+| Bud        | Protects the developing flower before it opens                                            |
+## Pollination
+
+Pollination is the process where pollen from the male reproductive part of the flower (the anther) is transferred to the female reproductive part (the stigma). There are two different types of pollination: Self Pollination and Cross Pollination. Self pollination occurs when pollen from the anther of a flower fertilizes its own stigma. Cross pollination involves the transfer of pollen from the anther of one flower to the stigma of a different flower. 
+
+<b><u>How does pollen get spread?</b></u>
+
+Pollination occurs when pollen from the anther of a flower is transferred to the stigma of a flower. This can happen in three different ways: Wind pollination, Insect pollination, and animal pollination. Wind pollination is when pollen is carried and spread by the wind. Meanwhile insect pollination is when an insect transfers pollen from one flower to another, animal pollination is similar where animals other than insects such as birds or bats transfer pollen. 
+
+
+> [!NOTE] Pollinators!
+> Insects and animals that transfer pollen from the anther of a flower to the stigma of a flower are called pollinators. These include bees, butterflies, birds, bats, and other insects and animals.
+
+
 # Human Body
 
 ## Blood and Blood Vessels
